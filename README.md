@@ -40,7 +40,7 @@
 
 
 
-### 👾 Um pouco sobre mim 👾  
+### 👾 Sobre mim 👾  
 💻 Desenvolvedor apaixonado por tecnologia, cursando o último semestre de Análise e Desenvolvimento de Sistemas e focado em criar soluções robustas no **Back-end**, com experiência em **Java**, **Python** e **SQL**. Desde que comecei a programar, **busco unir lógica, criatividade e boas práticas para desenvolver aplicações eficientes** e de fácil manutenção.
 
 🚀 Tenho interesse em participar de projetos que desafiem minhas habilidades e me permitam aprender continuamente, colaborando com equipes inovadoras e engajadas. Acredito que tecnologia é mais do que código — é resolver problemas, gerar impacto real e transformar ideias em resultados.
