@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="github-header-banner.png" alt="Banner do GitHub" />
+</p>
+
+<br/>
 ## <div align="center">🎓 Cursando o último semestre de **Análise e Desenvolvimento de Sistemas**  </div>  
   
 
