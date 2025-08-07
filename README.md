@@ -5,7 +5,7 @@
 
 <br/>
 
-## <div align="center">🎓 Cursando o último semestre de **Análise e Desenvolvimento de Sistemas**  </div>  
+## <div align="center"> 👨‍💻 Um pouco sobre mim, minhas skills e o que venho construindo no mundo dev. **  </div>  
   
 
 <div align="center">
@@ -16,10 +16,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+
+
+- 🎓 Cursando o último semestre de **Análise e Desenvolvimento de Sistemas**
+
 
 - 💻 Foco em **desenvolvimento Back-end** com experiência em **Java**, **Python** e **SQL**    
-  
+
 
 - 🚀 Sempre em busca de aprimorar minhas habilidades e acompanhar as boas práticas do mercado    
   
