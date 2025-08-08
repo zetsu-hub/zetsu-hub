@@ -97,25 +97,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/zetsu-hub">
   <img alt="Linguagens mais usadas" src="https://github-used-languages.vercel.app/zetsu-hub">
+
+  
 </picture>
 
-{
-    "title": "🏆 Most Used Languages 🏆",
-    "custom_image": "https://www.behance.net/gallery/46806621/Retro-Macintosh/modules/279391943",
-    "colors_light_theme" : {
-        "title_color": "#828282",
-        "text_color" : "#888888",
-        "percentage_color": "#828282",
-        "background_color": "#fefeff",
-        "border_color": "#808080"
-    },
-    "colors_dark_theme": {
-        "title_color": "#E0E0E0",
-        "text_color": "#CCCCCC",
-        "percentage_color": "#BBBBBB",
-        "background_color": "#20202a",
-        "border_color": "#101010"
-    }
 
 
 <br/>  
